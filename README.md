@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/karnalking09/karnalking09/main/LOGO.png"
+    alt="KARNALKING09 Logo"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm KARNALKING09</h1>
 
 <p align="center">
@@ -5,6 +13,7 @@
 </p>
 
 <h3 align="center">AI Developer And App Developer And Ethical Hacking And From India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karnalking09&label=Profile%20views&color=0e75b6&style=flat" alt="karnalking09" /> </p>
 
